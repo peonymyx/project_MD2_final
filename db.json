@@ -1,0 +1,647 @@
+{
+  "users": [
+    {
+      "userName": "Admin",
+      "password": "U2FsdGVkX1+b2wskzpSSCh6sbWLuad94Npf5nnWHV5A=",
+      "email": "phuongtran.31221021478@st.ueh.edu.vn",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/avatar%2F1024118974690.4583.jpeg?alt=media&token=40090336-7809-4771-914a-20c4bc3ff9ab",
+      "isAdmin": true,
+      "id": 1,
+      "status": true,
+      "cart": [],
+      "receipts": []
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX1/Gb8gmPUgiI1WCPl26fSEiCna57arSC7Y=",
+      "email": "asd@asd.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": true,
+      "status": true,
+      "cart": [],
+      "receipts": [
+        {
+          "Date": "16:32:43  5-10-2023",
+          "id": "a7b6b7ba-2b18-4658-9a56-508433bc2ad0",
+          "status": "waiting",
+          "total": 1336000,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Inazuma Character Badges",
+              "price": 167000,
+              "category": "Badge",
+              "images": [
+                "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F383153129780.57324.jpeg?alt=media&token=51cc2f11-0c35-42f5-8397-93728518300f"
+              ],
+              "introduce": "Material: Tin Plate\nSize: 7.5 Cm in Diameter",
+              "quantity": 4,
+              "status": true,
+              "id": 3
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Mondstadt Character Badge",
+              "price": 167000,
+              "category": "Badge",
+              "images": [
+                "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F967907224154.2936.jpeg?alt=media&token=c47a0084-93b9-4796-ab9a-e46dff0a7c7a"
+              ],
+              "introduce": "This is the badge listing for [Mondstadt] characters. Check out our other listings for more characters!\nDiameter: 7.5CM\nMaterial: Tin Plate",
+              "quantity": 3,
+              "status": true,
+              "id": 2
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Li Yue Character Badge",
+              "price": 167000,
+              "category": "Badge",
+              "images": [
+                "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1599386301213.863.jpeg?alt=media&token=fb6e7268-7dff-4cb0-820e-7c4b9415228e"
+              ],
+              "introduce": "This is the badge listing for [Li Yue] characters. Check out our other listings for more characters!\nDiameter: 7.5CM\nMaterial: Tin Plate",
+              "quantity": 1,
+              "status": true,
+              "id": 1
+            }
+          ]
+        },
+        {
+          "Date": "20:46:19  5-10-2023",
+          "id": "e380d03c-c645-4374-ae33-c99f074fe89a",
+          "status": "waiting",
+          "total": 2742424,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Scenery Badge 2.0",
+              "price": 167000,
+              "category": "Badge",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F978007584460.5604.jpeg?alt=media&token=94f85795-aa36-4457-bb97-420e723a882b",
+              "introduce": "Material: Tin Plate\nSize: 5.8 cm in Diameter",
+              "quantity": 3,
+              "status": true,
+              "id": 6
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Teyvat Zoo Keychain",
+              "price": 219000,
+              "category": "Keychain",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F173453061761.08243.jpeg?alt=media&token=6916fce7-3840-4b3b-a72b-35cf31cc0d76",
+              "introduce": "Material: Polyester, PP Cotton\n\nSize: \n3mm Thick\nLength and Width: 33 x 35 mm\n",
+              "quantity": 4,
+              "status": true,
+              "id": 5
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Acrylic Block Keychain 2.0",
+              "price": 341356,
+              "category": "Keychain",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1352637026350.4124.jpeg?alt=media&token=e64de7c8-aeb5-4e51-b1ab-7b37a1aab2da",
+              "introduce": "Material: High Quality Acrylic\nSize: 50 X 70 mm\nThickness: 7mm",
+              "quantity": 4,
+              "status": true,
+              "id": 7
+            }
+          ]
+        },
+        {
+          "Date": "20:51:7  5-10-2023",
+          "id": "1f9b8864-4235-4763-9c62-e408794d7c07",
+          "status": "waiting",
+          "total": 849712,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Themed Display Stand",
+              "price": 341356,
+              "category": "Standee",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1459478214453.2627.jpeg?alt=media&token=fcdfbdda-fecb-42db-a933-15535f2d8767",
+              "introduce": "Material: Gilded Cardboard + Stand on the back\nMeasurements: 21.5 cm X 14.5 cm",
+              "quantity": 1,
+              "status": true,
+              "id": 4
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Acrylic Block Keychain 2.0",
+              "price": 341356,
+              "category": "Keychain",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1352637026350.4124.jpeg?alt=media&token=e64de7c8-aeb5-4e51-b1ab-7b37a1aab2da",
+              "introduce": "Material: High Quality Acrylic\nSize: 50 X 70 mm\nThickness: 7mm",
+              "quantity": 1,
+              "status": true,
+              "id": 7
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Characters Chibi Badges 2.0",
+              "price": 167000,
+              "category": "Badge",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F369109844032.5599.jpeg?alt=media&token=ba92af93-4523-4f47-94a8-aa99883c07b0",
+              "introduce": "Material: Tin Plate \nSize: 58mm Diameter\nInazuma Characters",
+              "quantity": 1,
+              "status": true,
+              "id": 12
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userName": "Phuong",
+      "password": "U2FsdGVkX19k5Fjpa4jIatyWQKBEy8Db/JTKUP4toqM=",
+      "email": "asd@asd.vn",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/avatar%2F1341118191466.7935.jpeg?alt=media&token=2fbf3c01-bead-4631-b0c1-d7607e69ab8e",
+      "isAdmin": false,
+      "status": false,
+      "cart": [],
+      "receipts": [],
+      "id": 3
+    },
+    {
+      "userName": "aaa",
+      "password": "U2FsdGVkX18DHIvippnKkegYcc1/7whIm0taqygzlUo=",
+      "email": "phg.tran.0510@gmail.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 4
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX1+S8REgJ30Roy0UhSOzhsgpQucZVumaghM=",
+      "email": "Kafka@SHunters.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [
+        {
+          "Date": "20:18:58  5-10-2023",
+          "id": "b68cad87-1e22-4207-b75b-b78018cee628",
+          "status": "waiting",
+          "total": 1219268,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Teyvat Zoo Dango Plushie Keychain",
+              "price": 536556,
+              "category": "Keychain",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1219178976463.5322.jpeg?alt=media&token=0374fcf8-c163-4ae9-b6ee-66af63675e4e",
+              "introduce": "Material: Polyester, PP Cotton\n\nSize: \nChilde: 9.5 X 9.5 X 10 cm\nAmber: 8.5 X 10.5 X 7.5 cm\nDiona: 8 X 7 X 8.5 cm\nDiluc: 9.5 X 8 X 8 cm\nKe Qing: 8 X 7.5 X 8 cm\nXiao: 9 X 9.5 X 8.5 cm\nGan Yu: 8.5 X 8 X 8 cm",
+              "quantity": 1,
+              "status": true,
+              "id": 3
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Themed Display Stand",
+              "price": 341356,
+              "category": "Standee",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1459478214453.2627.jpeg?alt=media&token=fcdfbdda-fecb-42db-a933-15535f2d8767",
+              "introduce": "Material: Gilded Cardboard + Stand on the back\nMeasurements: 21.5 cm X 14.5 cm",
+              "quantity": 2,
+              "status": true,
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX189anK8Dv6nRW7XeJG2nYMvvLrtKam8pqQ=",
+      "email": "peonymyx@gmail.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 6
+    },
+    {
+      "userName": "Dan Heng",
+      "password": "U2FsdGVkX1/9yrhtYgwXP/BK5Gyla3A+Yacpb5mQAAM=",
+      "email": "DanHengIL@Astral.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 7
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX1/M5qDBRpHGL1f7O/woEcktqu4NcjxBQWs=",
+      "email": "Kafka@SHunters.vn",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 8
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX18zay+dweTaDRUAYV4Us4HwMa6/XWIy9Hg=",
+      "email": "a@a.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 9
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX1+ySaX076/+kfPENGT6W55B5w0Gcl7LGqQ=",
+      "email": "b@b.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 10
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX19Eu+y4vVWD6PO0LqK1zEptdsYMZJ+Stnw=",
+      "email": "c@c.com",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [],
+      "id": 11
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX19TrNmCOA3hhbK61ChdBssYSyaTEjXYBJs=",
+      "email": "q@q.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/avatar%2F1524459297045.177.jpeg?alt=media&token=be3d5f09-9299-4ab9-ae97-ea866c8f2750",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [
+        {
+          "Date": "18:0:44  6-10-2023",
+          "id": "9d96fbcd-3c01-4af3-a03e-bff56487ba28",
+          "status": "waiting",
+          "total": 501000,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Scenery Badge 2.0",
+              "price": 167000,
+              "category": "Badge",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F978007584460.5604.jpeg?alt=media&token=94f85795-aa36-4457-bb97-420e723a882b",
+              "introduce": "Material: Tin Plate\nSize: 5.8 cm in Diameter",
+              "quantity": 3,
+              "status": true,
+              "id": 6
+            }
+          ]
+        }
+      ],
+      "id": 12
+    },
+    {
+      "userName": "123",
+      "password": "U2FsdGVkX18vj1KN8zpI8DPG9GFFxZzXdaydsoBl2lo=",
+      "email": "a@a.vn",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/avatar%2F377546908534.0114.jpeg?alt=media&token=581ba083-11f5-4261-808f-1179b7f283e2",
+      "isAdmin": false,
+      "status": true,
+      "cart": [],
+      "receipts": [
+        {
+          "Date": "19:25:13  6-10-2023",
+          "id": "c5d7c0a0-9b1b-4241-ae41-b9e37deb58b5",
+          "status": "waiting",
+          "total": 1219268,
+          "products": [
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Teyvat Zoo Dango Plushie Keychain",
+              "price": 536556,
+              "category": "Keychain",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1219178976463.5322.jpeg?alt=media&token=0374fcf8-c163-4ae9-b6ee-66af63675e4e",
+              "introduce": "Material: Polyester, PP Cotton\n\nSize: \nChilde: 9.5 X 9.5 X 10 cm\nAmber: 8.5 X 10.5 X 7.5 cm\nDiona: 8 X 7 X 8.5 cm\nDiluc: 9.5 X 8 X 8 cm\nKe Qing: 8 X 7.5 X 8 cm\nXiao: 9 X 9.5 X 8.5 cm\nGan Yu: 8.5 X 8 X 8 cm",
+              "quantity": 1,
+              "status": true,
+              "id": 3
+            },
+            {
+              "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Themed Display Stand",
+              "price": 341356,
+              "category": "Standee",
+              "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1459478214453.2627.jpeg?alt=media&token=fcdfbdda-fecb-42db-a933-15535f2d8767",
+              "introduce": "Material: Gilded Cardboard + Stand on the back\nMeasurements: 21.5 cm X 14.5 cm",
+              "quantity": 2,
+              "status": true,
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Character Bracelet",
+      "price": 410000,
+      "category": "Bracelet",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1327262344061.7952.jpeg?alt=media&token=8bdf0066-38c1-468b-9dd6-baea21013d6c",
+      "introduce": "Material: Polypropylene string, alloy charm\n\nBracelet measurements:\nLength: 30cm\nDiameter: 6-8.5cm\n\nCharm measurements:\nDiameter: 1.8cm\nThickness: 0.2cm",
+      "quantity": 1,
+      "status": true,
+      "id": 1
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Teyvat Zoo Dango Plushie Keychain",
+      "price": 536556,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1219178976463.5322.jpeg?alt=media&token=0374fcf8-c163-4ae9-b6ee-66af63675e4e",
+      "introduce": "Material: Polyester, PP Cotton\n\nSize: \nChilde: 9.5 X 9.5 X 10 cm\nAmber: 8.5 X 10.5 X 7.5 cm\nDiona: 8 X 7 X 8.5 cm\nDiluc: 9.5 X 8 X 8 cm\nKe Qing: 8 X 7.5 X 8 cm\nXiao: 9 X 9.5 X 8.5 cm\nGan Yu: 8.5 X 8 X 8 cm",
+      "quantity": 1,
+      "status": true,
+      "id": 3
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Themed Display Stand",
+      "price": 341356,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1459478214453.2627.jpeg?alt=media&token=fcdfbdda-fecb-42db-a933-15535f2d8767",
+      "introduce": "Material: Gilded Cardboard + Stand on the back\nMeasurements: 21.5 cm X 14.5 cm",
+      "quantity": 1,
+      "status": true,
+      "id": 4
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Teyvat Zoo Keychain",
+      "price": 219000,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F173453061761.08243.jpeg?alt=media&token=6916fce7-3840-4b3b-a72b-35cf31cc0d76",
+      "introduce": "Material: Polyester, PP Cotton\n\nSize: \n3mm Thick\nLength and Width: 33 x 35 mm\n",
+      "quantity": 1,
+      "status": true,
+      "id": 5
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Scenery Badge 2.0",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F978007584460.5604.jpeg?alt=media&token=94f85795-aa36-4457-bb97-420e723a882b",
+      "introduce": "Material: Tin Plate\nSize: 5.8 cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 6
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Acrylic Block Keychain 2.0",
+      "price": 341356,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1352637026350.4124.jpeg?alt=media&token=e64de7c8-aeb5-4e51-b1ab-7b37a1aab2da",
+      "introduce": "Material: High Quality Acrylic\nSize: 50 X 70 mm\nThickness: 7mm",
+      "quantity": 1,
+      "status": true,
+      "id": 7
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Teyvat Paradise Genshin Impact Character Plushies",
+      "price": 716000,
+      "category": "Plushie",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F871188960661.244.jpeg?alt=media&token=c16c5dd3-d0a1-4adb-8bec-5f0d2d29c7e8",
+      "introduce": "Material: Polyester\nSize: Approximately 18cm tall excluding clothing, varies with each character.",
+      "quantity": 1,
+      "status": true,
+      "id": 8
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Weapon Keychain",
+      "price": 410000,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F20968186637.02777.jpeg?alt=media&token=3c8cf1b6-0bec-45a1-ba0b-66bcfb71b8de",
+      "introduce": "Material: Alloy",
+      "quantity": 1,
+      "status": true,
+      "id": 9
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Slime Plushies",
+      "price": 658800,
+      "category": "Plushie",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1429646625389.8396.jpeg?alt=media&token=364b17a5-4ab8-4e68-8002-bbb9cb69c50c",
+      "introduce": "Material: 93% polyester, 7% spandex\nStuffing: 100% PP Cotton\n\nSize: 16 x 15 x 15cm",
+      "quantity": 1,
+      "status": true,
+      "id": 10
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Cinematic Series Postcard Set",
+      "price": 488000,
+      "category": "Postcard",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1376872205638.8862.jpeg?alt=media&token=a8f98fb0-5317-4e97-87bb-35cbf19ff2c4",
+      "introduce": " The Postcard series is inclusive of 2 different type of designs. One with Lenticular (Images changes with angels) print and another with 3D print. ",
+      "quantity": 1,
+      "status": true,
+      "id": 11
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Characters Chibi Badges 2.0",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F369109844032.5599.jpeg?alt=media&token=ba92af93-4523-4f47-94a8-aa99883c07b0",
+      "introduce": "Material: Tin Plate \nSize: 58mm Diameter\nInazuma Characters",
+      "quantity": 1,
+      "status": true,
+      "id": 12
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Concert Chibi Badges",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F735311802427.9393.jpeg?alt=media&token=af372002-b81c-4650-bb79-1b58973f9ff4",
+      "introduce": "Material: Tin Plate\nSize: 5.8 cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 13
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Scenery Badge",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F72303411767.82063.jpeg?alt=media&token=f86e0e96-0e87-49d4-80a0-54edc66fca62",
+      "introduce": "Material: Tin Plate\nSize: 7.5 cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 14
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Rubber Character Catchphrase Keychain",
+      "price": 341356,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F673929727168.4344.jpeg?alt=media&token=9eceee85-a329-4513-8a4c-c264bd355442",
+      "introduce": "Rubber Parts: 2.9 cm thick, 10.2 cm long\nString with Metal: 3.1 x 3.8 cm",
+      "quantity": 1,
+      "status": true,
+      "id": 15
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Concert Chibi Standees",
+      "price": 410000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F282186309525.28613.jpeg?alt=media&token=e7f6e0bd-2858-44f2-9395-fc9acfe64cdc",
+      "introduce": "Material: Acrylic\n\nSize\nCharacter: 5 x 7 cm\nBase: 4.8 x 3 cm\n",
+      "quantity": 1,
+      "status": true,
+      "id": 16
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Concert Standees",
+      "price": 520000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1020534942337.3005.jpeg?alt=media&token=6a11a5d5-0e7c-452b-b552-bb27e4ced59a",
+      "introduce": "Genshin Concert Standees\nMaterial: Acrylic\n",
+      "quantity": 1,
+      "status": true,
+      "id": 17
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Concert Badges",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F750545779663.0159.jpeg?alt=media&token=a7831b2d-5720-4c2b-ae48-2a05fe420bad",
+      "introduce": "Material: Tin Plate\nSize: 5.8 cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 18
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Mondstadt Character Blind Box Figurine",
+      "price": 2684000,
+      "category": "Figure",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F837691992963.8695.jpeg?alt=media&token=a46c17a3-60fa-4d29-bc93-f6a432313a20",
+      "introduce": "Material: PVC \nSizes: Varies according to design",
+      "quantity": 1,
+      "status": true,
+      "id": 19
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Halloween Badge",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1692147762156.8079.jpeg?alt=media&token=1947d2cd-8079-4323-9745-5e9e27366d1e",
+      "introduce": "Genshin Impact Halloween Badges\nMaterial: Alloy\nDiameter: 5.8cm\n",
+      "quantity": 1,
+      "status": true,
+      "id": 20
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Inazuma Character Standees",
+      "price": 410000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1018547689334.485.jpeg?alt=media&token=60c710fd-9f97-4dca-925d-6c99b80308c3",
+      "introduce": "Material: Acrylic\nSize: 11 cm wide, 15.5 cm tall",
+      "quantity": 1,
+      "status": true,
+      "id": 21
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Inazuma Character Badges",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1126525587845.0112.jpeg?alt=media&token=56857000-8e8c-4cc9-9709-db55d4470b97",
+      "introduce": "Material: Tin Plate\nSize: 7.5 Cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 22
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genhin Impact Sumeru Character Badges",
+      "price": 167000,
+      "category": "Badge",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1348141248063.0747.jpeg?alt=media&token=d67495b2-8dba-4567-ab8a-a7ebfc3f5686",
+      "introduce": "Material: Tin Plate\nSize: 7.5 Cm in Diameter",
+      "quantity": 1,
+      "status": true,
+      "id": 23
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Special Character Phone Stands",
+      "price": 410000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F367332876714.1405.jpeg?alt=media&token=db71530b-f709-4316-956a-712475680bab",
+      "introduce": "Material: High Quality Acrylic\nSize: 110mm x 165mm",
+      "quantity": 1,
+      "status": true,
+      "id": 24
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Special Character Keychains",
+      "price": 167000,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F725647373411.8909.jpeg?alt=media&token=f6bf4551-0783-4146-85b3-17e047100eb0",
+      "introduce": "Material: Alloy\nSize: 26mm x 77mm",
+      "quantity": 1,
+      "status": true,
+      "id": 25
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Fast Food themed Genshin Impact Collection",
+      "price": 167000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F417228795687.0666.jpeg?alt=media&token=a99211e0-eb38-4f8e-b2e3-4efa6edf1e41",
+      "introduce": "Badge Size: 58mm in diameter\nDiluc Standee: 62 x 157 mm",
+      "quantity": 1,
+      "status": true,
+      "id": 26
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Themed Mouse Mat",
+      "price": 976000,
+      "category": " Mouse Mat",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F528752169777.50684.jpeg?alt=media&token=8ff0422a-4436-4310-93c7-895ffe6be6a3",
+      "introduce": "Size: 40cm X 70cm\nThickness: 4mm",
+      "quantity": 1,
+      "status": true,
+      "id": 27
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Metallic Character Keychain",
+      "price": 167000,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F664323137312.3876.jpeg?alt=media&token=cfc0070d-d697-4423-b614-dcbbdb8a8926",
+      "introduce": "Material: Premium Zinc Alloy \nSizes:  Varies according to character",
+      "quantity": 1,
+      "status": true,
+      "id": 28
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Sumeru Character Standees",
+      "price": 410000,
+      "category": "Standee",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F844158507188.0554.jpeg?alt=media&token=7104a353-404d-4bd6-8b2e-2e7a7db35307",
+      "introduce": "Material: Acrylic\nSize: 9.8 x 16.3 (cm)\n\n\n\n",
+      "quantity": 1,
+      "status": true,
+      "id": 29
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Sumeru Assorted Character Post-it Notes",
+      "price": 180000,
+      "category": "Notes",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F552673992470.4142.jpeg?alt=media&token=cffbd74c-5e4e-42c0-af9f-454e0800819f",
+      "introduce": "Material: Paper\n4 Different sizes, with 30 pieces each\nSizes:  120mm X 80mm",
+      "quantity": 1,
+      "status": true,
+      "id": 30
+    },
+    {
+      "productName": "[OFFICIAL MERCHANDISE] Genshin Impact Sumeru Character Chibi Acrylic Keychains",
+      "price": 167000,
+      "category": "Keychain",
+      "images": "https://firebasestorage.googleapis.com/v0/b/part-time-2a620.appspot.com/o/products%2F1514708790508.8064.jpeg?alt=media&token=af8400cb-58a3-42f2-a491-3079e6881049",
+      "introduce": "Material: Thick Acrylic (3mm Thick)\n",
+      "quantity": 1,
+      "status": true,
+      "id": 31
+    }
+  ]
+}
